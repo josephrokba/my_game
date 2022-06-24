@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable-night/br1.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable-night/drawable.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br1.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br10.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br2.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br3.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br4.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br5.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br6.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br7.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br8.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/drawable/br9.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_change_pass.xml" value="0.25" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_change_password.xml" value="0.225" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_item_user.xml" value="0.2" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_main.xml" value="0.2109375" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_settings.xml" value="0.225" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_show_all.xml" value="0.2" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/activity_user_game.xml" value="0.19130434782608696" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/faild_toast.xml" value="0.225" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/layout/success_toast.xml" value="0.225" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/menu/activity_setting.xml" value="0.225" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/menu/activity_sitting.xml" value="0.225" />
+        <entry key="..\:/Users/joseph/AndroidStudioProjects/Game/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24114583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
